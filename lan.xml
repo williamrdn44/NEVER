@@ -1,28 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-
-<item>
-<title>[COLOR silver][B] TOP GUN MAVERICK [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MYT6SQDHXQR2FFLIBRHGFL6JKSBOF66W</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4aLjHD7sfMzEXin4qa7v6AJYo9R.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Após 34 anos na força, o lendário Capitão Pete "Maverick" Mitchell (Tom Cruise) se torna o novo instrutor de voo da Top Gun, fazendo com que ele seja o mentor de Bradley Bradshaw (Miles Teller), o filho de Goose, que busca ser um piloto melhor do que o seu pai foi.</info>
-</item> 
-*****************************
 <item>
 <title>[COLOR silver][B]365 Dias: Hoje (2022)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc0f302d0f3912fbe064788e8f14258467358f24</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6550cf1baa2094eeec185220a094accdf3820294</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/67vb4sQxJ06o4LvgoxB8Fj6mGqk.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/t9hNIUFcy0tYu55IPxjxRTTdZ6X.jpg</fanart
-<info>Em 365 Dias: Hoje, após os acontecimentos de 365 Dias, Laura Biel (Anna-Maria Sieklucka) se casa com Don Massimo Torricelli (Michele Morrone), o chefe da máfia siciliana que a sequestrou
+<info>
+Sinopse: Uma psiquiatra abriga uma jovem que está fugindo de um culto misterioso, sem nem perceber que esse gesto pode colocar a própria família em risco.
 </info>
+</item>
+
+
+
+
+<item>
+<title>[COLOR silver][B]  NOME DO FILME OU SERIE [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= POR AQ LINK MAGNET </link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR silver][B]Batman (2022)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:iatigclf3besqh6clychdocscxf3syyg</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/5P8SmMzSNYikXpxil6BYzJ16611.jpg</fanart
+<info></info>
 </item> 
 
-  
-  
-  
-  
-  
-  
-  
+
+<item>
+<title>[COLOR silver][B]   [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+
+
+
+
+
+
+
+
+
+
+
+
 </items>
