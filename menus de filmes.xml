@@ -18,15 +18,30 @@
 <externallink>https://gitlab.com/flechanegra/addon/-/raw/main/filmes.xml</externallink>
 </channel>
 
-<channel>
-<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white]LANÇAMENTOS [/COLOR][/B]</name>
-<thumbnail>https://0.0.0.0</thumbnail>
-<fanart>https://0.0.0.0</fanart>
-<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon TWOADDONS BR [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/lancamentos22.xml</externallink>
+</channels><channel>
+<name>[COLOR yellow][B][I]TOKUSATSU[/I][/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Obpy9IEYSYqwwtw8P9t2qkTdkw.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/deniskodi/supremo/main/TOKUSATSU</externallink>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Obpy9IEYSYqwwtw8P9t2qkTdkw.jpg</fanart>
+<info></info>
+</channel>
+
+</channels><channel>
+<name>[COLOR gold][B]COLEÇÕES[/B][/COLOR][COLOR green][B] [/B][/COLOR]</name>
+<thumbnail>https://4.bp.blogspot.com/-mCjtZz8Vmng/Xp47SCjzY5I/AAAAAAAADyY/JPewQeNSMpAQlHaVpkK2eSwWEG_OUppPgCK4BGAYYCw/s1600/COLECOESJANEIRO.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/deniskodi/supremo/main/colecoes</externallink>
+<fanart>https://4.bp.blogspot.com/-mCjtZz8Vmng/Xp47SCjzY5I/AAAAAAAADyY/JPewQeNSMpAQlHaVpkK2eSwWEG_OUppPgCK4BGAYYCw/s1600/COLECOESJANEIRO.png</fanart>
+<info> filmes que tenham sequencia </info>
 </channel>
 
 
+</channels><channel>
+<name>[COLOR gold][B]OVAS, MANGÁS,ANIMES[/B][/COLOR]</name>
+<thumbnail>https://1.bp.blogspot.com/-0a50kxrFaek/Xp475OVoa6I/AAAAAAAADys/QyGoWJZ3ZUMJnjRqZNbSUC-4NqqR2SfmQCK4BGAYYCw/s320/MANGASOVAS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/deniskodi/supremo/main/mangas</externallink>
+<fanart>https://1.bp.blogspot.com/-0a50kxrFaek/Xp475OVoa6I/AAAAAAAADys/QyGoWJZ3ZUMJnjRqZNbSUC-4NqqR2SfmQCK4BGAYYCw/s320/MANGASOVAS.png</fanart>
+<info></info>
+</channel>
 
 
 
